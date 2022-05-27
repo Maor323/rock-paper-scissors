@@ -11,4 +11,4 @@ The rules are simple:
 
 Screenshot for example:
 
-![image](https://user-images.githubusercontent.com/96150039/170717307-05dda9ac-cda5-4aba-958e-c60b1167d74a.png)
+![image](https://user-images.githubusercontent.com/96150039/170717574-958d8384-300f-432c-a8d9-15d1ba06e90e.png)
