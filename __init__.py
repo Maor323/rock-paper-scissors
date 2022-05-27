@@ -8,7 +8,7 @@ LOSE_COUNTER=0
 TIE_COUNTER=0
 def play():
     global INDEX_GAME
-    user=input("please enter your choise: R for rock, P for paper, S for scissors: ")
+    user=input("please enter your choice: R for rock, P for paper, S for scissors: ")
     user_key=check_valid_input(user.lower())
     computer=random.choice(['r','p','s'])
     result_game_statuse(computer,user_key)
