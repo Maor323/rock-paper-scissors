@@ -48,6 +48,6 @@ def main():
 
     while INDEX_GAME=='y':
         play()
-    print("\nTHANKS FOR PLAYING! SEE YOU IN THE NEXT TIME :)")
+    print("\nTHANKS FOR PLAYING! SEE YOU NEXT TIME :)")
 if __name__ == "__main__":
     main()
